@@ -1,0 +1,26 @@
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Help.resources
+C:\Users\ubdixso\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Main.resources
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\dtcdev\Brandon\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\dtcdev\Brandon\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.Main.resources
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.Help.resources
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dtcdev\Brandon\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\dtcdev\Brandon\Calculator\Calculator\bin\Debug\Calculator.application
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.exe.manifest
+C:\dtcdev\Brandon\Calculator\Calculator\obj\x86\Debug\Calculator.application
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Calculator C#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+\\rosseagar\Inbox\NewSARP\Brandon Dixson\Calculator C#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
